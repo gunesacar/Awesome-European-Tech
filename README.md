@@ -8,15 +8,21 @@ European software and companies often adhere to unique standards that provide si
 
 - **Sustainability Standards**: Many European companies prioritize eco-friendly practices, such as utilizing renewable energy, reducing carbon emissions, and adopting circular economy principles. These efforts align with the EU’s ambitious Green Deal initiatives, making them leaders in sustainable innovation.
 
-## Disclaimer
+### Acceptance Criteria
+1. **Compliance**: Must adhere to GDPR, UK GDPR, Swiss FADP, or other relevant European data protection frameworks.
+2. **European Headquarters**: The company or project must be based in Europe.
+3. **Technology Focus** Must be a company or project that leverages technology as a core component of its operations, products, or services.
+
+
+### Disclaimer
 
 This project is not about excluding non-European products or tools. There are countless exceptional global solutions that are widely used and appreciated. The purpose of this list is to highlight and support European startups and projects that excel in areas like privacy, sustainability, and innovation. By doing so, we aim to strengthen the European tech ecosystem while fostering collaboration and inclusivity across borders. Together, we can contribute to a more diverse, resilient, and interconnected global tech landscape.
 
 Before exploring the list, we encourage you to visit the website that inspired this project: [European Alternatives](https://european-alternatives.eu/). 
 
-## Contribute
+### Contribute
 
-We welcome contributions from the community! Feel free to submit a pull request to help expand and improve the list.
+Any contributions you make are **greatly appreciated**. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks again! ❤️
 
 ---
 
